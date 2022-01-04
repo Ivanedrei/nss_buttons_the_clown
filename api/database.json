@@ -1,0 +1,32 @@
+{
+  "parties": [
+    {
+      "parentName": "mom",
+      "childName": "son",
+      "childrenAttending": "10",
+      "address": "123 street",
+      "date": "2021-12-25",
+      "reservationHours": "2",
+      "id": 1
+    },
+    {
+      "parentName": "dad",
+      "childName": "daughter",
+      "childrenAttending": "300",
+      "address": "321 Kids Street",
+      "date": "2021-12-04",
+      "reservationHours": "5",
+      "id": 2
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "mike"
+    },
+    {
+      "id": 2,
+      "name": "lesley"
+    }
+  ]
+}
